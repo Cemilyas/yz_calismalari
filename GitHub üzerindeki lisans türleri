@@ -1,0 +1,37 @@
+(MIT License)
+-Yazılım projelerinde geniş bir özgürlük sunan bir lisanstır.
+-Kullanıcı bu lisans altında projeyi ticari ve kişisel bir amaç için kullanablir ve herhangi bir kısıtlaması olmaz.
+-İstedikleri gibi de değiştirebilirler.
+-Tek şart orjinal yazılımın lisans ve telif hakkı bildirimini korumaktır.
+-Ticari projeler için uygun bir lisanstır.
+
+(GNU General Public License (GPL) )
+-Özgür yazılım iedolojisini benimseyen bir lisans türüdür.
+-Tek şartı herkese açık (public) olmasıdır.Bu lisans altında paylaşılan bir kod herkese açık olmalıdır kısaca.
+-GPL kullanıcılarına projeyi değiştirme , paylaşma , kullanma hakkını vermektedir.
+-GPL yazılımın özgür kalmasını ve toplum tarafından sürekli değiştirilip geliştirilmesini destekler.
+-Kendi geliştirdiğiniz kodu da paylaşmanızı talep eder.
+
+(Apache License)
+-Bu lisans türü projelerinizin ticari ve kapalı kaynaklı projelerde de kullanılmasını sağlar.
+-Kullanıcılar bu lisans türünde de projeyi değiştirebilir ve dağıtabilirler.
+-Tek şart diğer lisanslarda da olduğu gibi telif hakkı talep etmeleridir.
+
+Bu 3 lisans en yaygın lisanslar arasında kabul edilmektedir.Kısaca en populer olanları hakkında detaylı bilgi verdim.
+Birkaç tane daha işimize yarayacak lisans türleri sıralayacağım.
+
+(BSD License)
+-Üniversiteler ve Araştırma Kurumları çok tercih eder.
+Projeyi ticari ve kapalı kaynaklı kullanım imkanı sağlar.
+Tek şartı orjinal lisans ve telif hakkı bildirimini korumaktır.
+
+(Creative Commons Licenses)
+-Sadece yazılım değil (resim,belge,metin) gibi şeylerin paylaşımı için de kullanılır.
+-Nasıl kullanılacağını ve paylaşılacağını belirlerler.
+
+(Eclipse Public License)
+-Eclipse Public License, Eclipse IDE gibi projelerde kullanılan bir lisans türüdür.
+-Bu lisans, projenin ticari kullanımına izin verir, ancak değişikliklerin orijinal projeye geri gönderilmesini şart koşar.
+
+
+
