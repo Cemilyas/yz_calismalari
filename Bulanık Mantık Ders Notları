@@ -1,0 +1,37 @@
+Bulanık mantık;
+Alamet ilk türk robottur ve çinlilere hediye olarak gönderilmiştir.
+Verilerin katmanlarla en yakın yeri (ağırlık merkezi) belirlenir. (VERİ SETLERİ - YAPAY ZEKA - ÇIKIŞ) ÖRNEĞİ
+YAPAY ZEKADA GİRİŞ OLASILIKSALDIR - BULANIK MANTIKTA ÇIKIŞ SABİTTİR
+BULANIK MANTIKTA KURALLAR EN İNCE AYRINTISINA KADAR YAZILMALIDIR
+BULANIK MANTIK İÇİN ZADEH HOCANIN ÇALIŞMALARINA BAK
+Bulanık küme değişik üyelik derecelerini bünyesinde barındıran bir kavramdır.
+Bu kavramda klasik kümeler yerine dereceli üyelik fonksiyonuyla işlemler yapılmaktadır.
+Bulanık mantık belirsiz,zamanla değişen, karmaşık ve iyi tanımlanmamış sistemlerin denetiminde kullanılır.
+
+Kullanım alanları;
+-Bulanık mantığın ilk kullanıldığı sektör çimento işletmeleri olmuştur.Bu alanda kireç taşı ve kil 1000-14000 derece arası sıcalıkta reaksiyona girmektedir.
+-Isıtıcı fırının içerisinde sıcaklık ve oksıjen oranları çimentonun kalitesini değiştirmektedir.
+
+Bulanık Küme Kavramı;
+Bulanık kavramı ilgili durumun belirsizliğini temsil etmektedir.
+Bulanık kural tabanı bulanık kümelerin en önemli alt yapısını oluşturmaktadır.
+Tasarlanan sisteme gelen veriler bulanık kural tabanına yükleyeceğimiz kurallar sonrasında çıktı işlemlerinin başarılı olmasını sağlayacaktır.
+
+*Sınav sorusu olabilir
+
+Bulanık küme üyelik fonksiyonları;
+
+üÇGEN ÜYELİK FONKSİYONU = TEK YÖNLÜ SONUÇ
+YAMUK ÜYELİK FONKSİYONU = ÇİFT YÖNLÜ SONUÇ (ELEKTRİKLİ ARABA ÖRNEĞİ)
+GAUSSİAN
+SİGMADİK
+
+
+*BULANIK MANTIK AŞAMALARI 
+* PROBLEM - PROBLEMİN GİRİŞ BİLGİLERİ - PROBLEMİN ÇIKTI BİLGİLERİ - BULANIK SİSTEM TASARIMI - GİRİŞ VE ÇIKIŞ DEĞERLERİ - BULANDIRMA - ÜYELİK İŞLEMLERİ - BULANIK ÇIKARIM - BULANIK KURALLARIN BELİRLENMESİ - DURULAMA - SİSTEMİN ÇIKTISI
+
+
+Yapay zeka problemlerinde ele alınan konu uygulanacak yöntemin veya algoritmanın belirlenmesinde büyük önem oluşturmaktadır.
+(1995:Klir,1996:Allahverdi) Yapay zeka için çalışmalarına bakılacak kişiler
+Gerçek dünyada geliştirilen modeller ne kadar iyi olursa olsun belirsizlikler ortaya mutlaka çıkar.
+
