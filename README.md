@@ -1,1 +1,1 @@
-# yz_calismalari
+Yapay zeka ders notlarım
